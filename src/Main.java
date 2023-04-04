@@ -7,5 +7,10 @@ public class Main {
         Trucks add=new Trucks();
         add.make="Cadillac";
         add.model ="Escalade";
+
+        Bikes add1=new Bikes();
+        add1.make="Yamaha";
+        add1.hp="1000";
+
     }
 }
