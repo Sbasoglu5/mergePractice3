@@ -3,5 +3,9 @@ public class Main {
         Cars car=new Cars();
         car.make="Audi";
         car.type="SUV";
+
+        Bikes add=new Bikes();
+        add.make="Yamaha";
+        add.hp="1000";
     }
 }
